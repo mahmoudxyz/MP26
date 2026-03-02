@@ -60,7 +60,7 @@ another depends only on its _________________ state, not on its ________________
 - Briefly explain what an orthogroup is and how it relates to the concept of orthology. Also, what is a 1-to-1 orthogroup?
 
 
-- Explain what is the input for the Astral software and which software can be used to generate it.
+- Explain what is the input for the Astral software(s) and which software can be used to generate it.
 
 
 - Define what we mean by character-based and distance-based methods in phylogenetics.
